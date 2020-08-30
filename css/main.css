@@ -15,16 +15,19 @@ section {
 
   h1 {
     font-size: 2em;
+    font-family: 'Raleway';
     color: #7b7d70;
   }
 
   h2 {
     font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
     color: #4EAFB8;
   }
 
   p {
     color: #ff8641;
+    font-family: 'Montserrat', sans-serif;
   }
 }
 
@@ -35,17 +38,20 @@ section {
   and (-webkit-min-device-pixel-ratio: 2) {
 
   h1 {
-    font-size: 2em;
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
     color: #02cbd2;
   }
 
   h2 {
     font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
     color: #fcc02a;
   }
 
   p {
     color: #7b8f8e;
+    font-family: 'Montserrat', sans-serif;
   }
 
 }
@@ -59,16 +65,19 @@ section {
   and (min-resolution: 192dpi) {
 
     h1 {
-      font-size: 2em;
+      font-size: 1.5em;
+      font-family: 'Roboto', sans-serif;
       color: #6e4b61;
     }
 
     h2 {
       font-size: 1.5em;
+      font-family: 'Roboto', sans-serif;
       color: #cabd61;
     }
 
     p {
       color: #c19e74;
+      font-family: 'Montserrat', sans-serif;
     }
 }
