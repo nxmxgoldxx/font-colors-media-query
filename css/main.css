@@ -9,9 +9,7 @@ section {
   margin: auto;
 }
 
-/* Phone */
-
-@media screen only (min-width 786px) {
+/* Mobile */
 
   h1 {
     font-size: 2em;
@@ -33,7 +31,7 @@ section {
 
 /* Tablet */
 
-@media screen (min-device-width: 1024px)
+@media screen (min-device-width: 786px)
   and (-webkit-min-device-pixel-ratio: 2) {
 
   h1 {
